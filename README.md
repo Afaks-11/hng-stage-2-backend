@@ -18,7 +18,7 @@ Follow these steps to set up and run the project locally.
 ### Installation
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/Elderusr/HNG-stage-2
+    git clone https://github.com/Afaks-11/hng-stage-2-backend.git
     cd HNG-stage-2
     ```
 
